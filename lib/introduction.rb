@@ -7,10 +7,12 @@ def introduction_with_language(name, language)
   name=Alex 
   puts "Hi my name is #{name}."
 end
+
 def introduction_with_language_optional(name, language)
   name=Alex
   language=Ruby
   puts "Hi, my name is #{Hi, my name is #{name} and I am learning to program in #{langage}"
+end
     
 
 
